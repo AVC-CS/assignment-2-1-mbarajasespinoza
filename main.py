@@ -8,7 +8,7 @@ def main():
     
     print ('Total percentage of males in class: \t' + format(m_perc, '.2f') +'%')
     print ('Total percentage of females in class: \t' + format(f_perc, '.2f') +'%')
-    return m_perc, f_perc, total_students
+    return m_perc, f_perc
 
 
 if __name__ == '__main__':
